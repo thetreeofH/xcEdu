@@ -6,9 +6,9 @@
 
 ## 2.系统架构
 
-![image-20210629172809100](C:\Users\yul\AppData\Roaming\Typora\typora-user-images\image-20210629172809100.png)
+![image-20210629172809100](image\image-20210629172809100.png)
 
-![image-20210629172851162](C:\Users\yul\AppData\Roaming\Typora\typora-user-images\image-20210629172851162.png)
+![image-20210629172851162](image\image-20210629172851162.png)
 
 ### 业务流程举例：
 
