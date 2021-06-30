@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd6f70ef-b367-4dc1-9ab3-a4972a9c1ce4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-common/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-common/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-common/src/main/java/com/xuecheng/framework/client/XcServiceList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-common/src/main/java/com/xuecheng/framework/model/request/RequestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/CommonCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/QueryResponseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/QueryResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/ResponseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-common/src/main/java/com/xuecheng/framework/model/response/ResultCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-common/src/main/java/com/xuecheng/framework/web/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsConfigModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsPageParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsSiteServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/CmsTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/ext/CmsPageExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/ext/CmsTemplateExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CmsCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CmsPageResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/CoursePreviewResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/response/GenerateHtmlResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CourseBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CourseIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CourseMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CourseOff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CoursePic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CoursePre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/CoursePub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/Teachplan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/TeachplanMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/ext/CategoryNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/ext/CategoryParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/ext/CourseInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/ext/TeachplanExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/ext/TeachplanNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/ext/TeachplanParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/request/CourseListRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/response/AddCourseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/response/CourseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/course/response/DeleteCourseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/filesystem/FileSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/filesystem/response/FileSystemCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/filesystem/response/UploadFileResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/learning/XcLearningCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/learning/XcLearningList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/MediaFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/MediaFileProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/MediaFileProcess_m3u8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/MediaVideoCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/MediaVideoCourseSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/request/QueryMediaFileRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/response/CheckChunkResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/response/MediaCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/response/MediaCourseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/media/response/MediaFileResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/XcOrders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/XcOrdersDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/XcOrdersPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/request/CreateOrderRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/request/weixinPayInformRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/response/CreateOrderResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/response/OrderCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/response/OrderResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/response/PayOrderResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/order/response/PayQrcodeResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/portalview/PreViewCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/portalview/PreViewCourseMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/portalview/ViewCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/portalview/ViewCourseMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/portalview/response/PortalViewCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/report/ReportCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/report/ReportCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/search/CourseSearchParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/system/SysDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/system/SysDictionaryValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/task/XcTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/task/XcTaskHis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/test/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcCompanyUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcPermission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/XcUserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/ext/AuthToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/ext/UserBasicInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/ext/UserToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/ext/UserTokenStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/ext/XcMenuExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/ext/XcUserExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/request/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/response/AuthCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/response/JwtResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/response/LoginResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-model/src/main/java/com/xuecheng/framework/domain/ucenter/response/UcenterCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-parent/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-parent/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-parent/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-parent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-utils/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-utils/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-utils/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/BCryptUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/CookieUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/GenerateOrderNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/HlsVideoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/HttpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/MD5Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/Mp4VideoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/Oauth2Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/Snowflake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/SnowflakeIdWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/VideoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/XcOauth2Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/ZipUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-service-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xceduserver/xc-service-api/src/main/java/com/xuecheng/api/config/Swagger2Configuration.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xc-ui-pc-static-portal" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>picker</find>
+      <find>upload</find>
+      <find>fileList</find>
+      <find>uploadFile</find>
+      <find>fileMd5</find>
+      <find>alert(</find>
+      <find>uploader</find>
+      <find>上传文件失败，请刷新页面重试</find>
+      <find>loginFormVisible</find>
+      <find>login</find>
+      <find>user.</find>
+      <find>getActiveUser</find>
+      <find>checkActiveUser</find>
+      <find>logout</find>
+      <find>getUserSession</find>
+      <find>user</find>
+      <find>getUserInfoFromJwt</find>
+      <find>欢迎</find>
+      <find>setUserSession</find>
+      <find>learnstatus</find>
+      <find>queryCompanyStat</find>
+      <find>showlogin</find>
+      <find>delUserSession</find>
+      <find>createOrder</find>
+      <find>getLearnstatus</find>
+      <find>popup-box</find>
+      <find>headVm</find>
+      <find>buy</find>
+      <find>Message</find>
+      <find>#include</find>
+    </findStrings>
+    <dirStrings>
+      <dir>F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
+  <component name="ProjectId" id="1ubtDPRLfTLfBbk38JkpTPQYrgI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../xceduserver" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\js" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\include" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\plugins\webuploader" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\plugins\ckplayer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd6f70ef-b367-4dc1-9ab3-a4972a9c1ce4" name="Default" comment="" />
+      <created>1522380484107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522380484107</updated>
+      <workItem from="1522380485408" duration="3321000" />
+      <workItem from="1522508971246" duration="774000" />
+      <workItem from="1523427826704" duration="1327000" />
+      <workItem from="1524130929472" duration="1877000" />
+      <workItem from="1524879081123" duration="42000" />
+      <workItem from="1525783769466" duration="7861000" />
+      <workItem from="1525855065000" duration="1553000" />
+      <workItem from="1525875545751" duration="590000" />
+      <workItem from="1525919502156" duration="32220000" />
+      <workItem from="1526894397864" duration="9476000" />
+      <workItem from="1526977959394" duration="13563000" />
+      <workItem from="1527237696038" duration="16456000" />
+      <workItem from="1527865495024" duration="667000" />
+      <workItem from="1527923954209" duration="1626000" />
+      <workItem from="1528153794416" duration="4484000" />
+      <workItem from="1528173396953" duration="621000" />
+      <workItem from="1528190447746" duration="8000" />
+      <workItem from="1528249696513" duration="770000" />
+      <workItem from="1624945763725" duration="78000" />
+      <workItem from="1624946003390" duration="3099000" />
+      <workItem from="1624956033086" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
